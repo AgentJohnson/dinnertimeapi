@@ -1,2 +1,2 @@
 # dinnertimeapi
-Java Spring REST API to power multiple client apps for tracking cooking ingredients and meal suggestions.
+Java Spring REST API to power Android and web apps for tracking cooking ingredients and meal suggestions.
